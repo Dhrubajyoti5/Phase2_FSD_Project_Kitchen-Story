@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Product": [
+    {
+      "id": 123,
+      "pname": "Pasta",
+      "Ptype": "Chiness",
+      "price": 675
+    },
+    {
+      "id": 124,
+      "pname": "Pizza",
+      "Ptype": "NorthIndian",
+      "price": 81
+    },
+    {
+      "id": "125",
+      "pname": "Sahi Tikka Paneer Updated ",
+      "Ptype": "Grocery",
+      "price": "450"
+    }
+  ]
+}
